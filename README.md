@@ -1,4 +1,5 @@
 # my-college
 This is my first git repository
 <br>
-Author - Harshal Dhakate
+Author - Harshal dh
+
